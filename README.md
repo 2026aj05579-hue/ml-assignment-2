@@ -26,7 +26,8 @@
 
 # \## c. Github Repository Link
 
-# \- \*\*Repository Link\*\*: \[https://github.com/2026aj05579-hue/ml-assignment-2.git](https://github.com/2026aj05579-hue/ml-assignment-2.git)
+# \- \*\*Repository Link\*\*: \[https://github.com/2026aj05579-hue/ml-assignment-2](https://github.com/2026aj05579-hue/ml-assignment-2)
+# \- \*\*Streamlit web app Link\*\*: \[https://txfkiewaysfourxccvx8yy.streamlit.app/](https://txfkiewaysfourxccvx8yy.streamlit.app/)
 
 # \- \*\*Project Structure\*\*:
 
